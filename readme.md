@@ -2,10 +2,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-<div align="center">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-laco&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-laco&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jonathan-laco&theme=gotham&hide_border=true&area=true)
 
