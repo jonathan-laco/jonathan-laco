@@ -2,7 +2,7 @@
 
    <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura&bg_color=00000000)<br>
  ________________________________________________________________________________
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-laco&layout=compact&show_icons=true&bg_color=00000000)
 
