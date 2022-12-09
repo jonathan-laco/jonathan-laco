@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura&bg_color=00000000)<br>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&theme=dracula)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&theme=github-compact)
 
  ________________________________________________________________________________
 
