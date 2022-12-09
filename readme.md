@@ -4,9 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura&bg_color=00000000)<br>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&bg_color=0f0b0d&color=9e4c98&line=f40be4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&theme=dracula)]
+
  ________________________________________________________________________________
-![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-laco&layout=compact&show_icons=true&bg_color=00000000)
 
 
 
