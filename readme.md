@@ -7,8 +7,7 @@
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-laco&layout=compact&show_icons=true&bg_color=00000000)
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=jonathan-laco&theme=gotham&hide_border=true&area=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&bg_color=0f0b0d&color=9e4c98&line=f40be4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### My preferred distribution
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 ### Main skills:
