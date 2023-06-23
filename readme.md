@@ -4,13 +4,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura&bg_color=00000000)<br>
  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonathan-laco&theme=github-compact)
 
  ________________________________________________________________________________
 
 
 
-### My preferred distribution
+### My favorite  distribution
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
