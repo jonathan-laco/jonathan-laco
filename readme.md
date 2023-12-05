@@ -4,8 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=aura&bg_color=00000000)<br>
  
-
- ________________________________________________________________________________
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-laco&custom_title=Meus%20Gráficos%20&theme=github-compact)
+________________________________________________________________________________
 
 
 
