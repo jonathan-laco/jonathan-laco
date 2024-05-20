@@ -26,4 +26,4 @@ ________________________________________________________________________________
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f3marutnwuuun2coxdbt4airra&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f3marutnwuuun2coxdbt4airra&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/intl-pt/track/2Vdhnx7PJIOxTUxrMuNqqz?si=44e1032e0e094078)
