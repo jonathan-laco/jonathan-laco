@@ -10,6 +10,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-laco&custom_title=Meus%20Gráficos%20&theme=github-compact)
 
 ________________________________________________________________________________
+![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31f3marutnwuuun2coxdbt4airra&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
