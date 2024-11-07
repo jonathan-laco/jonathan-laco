@@ -27,3 +27,4 @@ ________________________________________________________________________________
 ![Linux](https://img.shields.io/badge/Linux-%23A333C1.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<img src="https://komarev.com/ghpvc/?username=jonathan-laco&label=Profile%20views&color=18bf71&style=plastic"> </p>
