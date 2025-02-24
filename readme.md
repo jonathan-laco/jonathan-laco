@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=radical&bg_color=00000000) 
+![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-laco&show_icons=true&theme=radical&bg_color=00000000&cachebust=1)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="300px" width="300px" align="right">
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-laco&custom_title=Meus%20Gr%C3%A1ficos%20&theme=github-compact)
